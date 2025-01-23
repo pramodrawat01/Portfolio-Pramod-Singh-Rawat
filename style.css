@@ -374,9 +374,10 @@ body{
     border-bottom:2px solid black;
     padding-bottom: 1rem;
 }
-#github-icon{
+#github-icon, #github-icon2{
     cursor: pointer;
     color:  black;
+    
 }
 .tech-icon {
     margin-top: 2rem;
@@ -713,3 +714,30 @@ input{
         transform: scale(1);
     }
 }
+/* 
+@media (max-width : 375px) {
+    .bg-react{
+        width: 100%;
+    }
+    .home-nev{
+        display: flex;
+        flex-direction: column;
+    }
+    .hero-part{
+        
+        margin-top: 25rem;
+        margin-left: 1rem
+    }
+    
+}
+@media (max-width : 768px) {
+    .darktheam, .lighttheam{
+        display: none;
+    }
+    .navbar{
+        justify-content: space-between;
+    }
+    .links{
+        display: none;
+    }
+} */
