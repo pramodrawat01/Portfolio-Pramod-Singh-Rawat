@@ -240,9 +240,7 @@ body{
     width: 100%;
     scroll-margin-top: 80px;   
 }
-.projects{
-    /* border: 1px solid white; */
-}
+
 
 .group01, .group02, .group03{
     position: relative;
